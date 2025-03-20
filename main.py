@@ -18,7 +18,6 @@ from oops import *
 from asynchronousProgramming import *
 
 
-# st.set_page_config(page_title="Python Quiz App", page_icon="🧠", layout="wide")
 
 st.markdown("<h1 style='text-align:center;'>PYTHON QUIZ APP </h1>", unsafe_allow_html=True)
 
